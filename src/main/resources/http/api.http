@@ -7,3 +7,13 @@ Content-Type: application/json
   "name": "qinyi",
   "birthday": "2020/12/01"
 }
+
+###
+POST http://localhost:8080/user/qinyi
+Content-Type: application/json
+
+{
+"id": "1",
+"name": "qinyi",
+"age": 19
+}
