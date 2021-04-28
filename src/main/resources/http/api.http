@@ -1,0 +1,9 @@
+###
+POST http://localhost:8080/need/date/user
+Content-Type: application/json
+
+{
+  "id": "1",
+  "name": "qinyi",
+  "birthday": "2020/12/01"
+}
